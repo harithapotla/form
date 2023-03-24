@@ -10,7 +10,6 @@ const App = () => {
     birthday:"",
     password:"",
     confirmPassword:"",
-    age:'',
   });
 
   const inputs = [
